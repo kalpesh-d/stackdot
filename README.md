@@ -16,7 +16,7 @@
 ### Running the App
 
 ```sh
-npm start
+npm run dev
 ```
 
 ## Project Structure
@@ -30,4 +30,10 @@ src/
   └── components/
         ├── Search.jsx
         └── BlogPost.jsx
+```
+## Libraries used
+
+```
+   axios: 1.10.0
+   react: 19.1.0
 ```
